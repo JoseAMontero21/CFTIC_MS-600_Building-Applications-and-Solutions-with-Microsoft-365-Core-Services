@@ -280,7 +280,7 @@ Student: José A. Montero
 
 
 
-
+![01_2-59](Ejercicio_2/img_2/01_2-59.PNG)
 
 
 
